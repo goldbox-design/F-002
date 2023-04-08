@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-noto-sans-jp: "Noto Sans JP";
+
+  /* font sizes */
+  --font-size-base: 1rem;
+  --font-size-xl: 1.25rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-20xl: 2.44rem;
+  --font-size-17xl: 2.25rem;
+  --font-size-lg: 1.13rem;
+  --font-size-29xl: 3rem;
+
+  /* Colors */
+  --white: #fff;
+  --black: #323232;
+  --main: #f16c16;
+  --gray-02: #576074;
+  --color-dimgray: #495367;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-mini: 15px;
+  --gap-sm: 14px;
+  --gap-base: 16px;
+  --gap-3xs: 10px;
+  --gap-7xs: 6px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-61xl: 80px;
+  --padding-5xl: 24px;
+  --padding-xl: 20px;
+  --padding-11xl: 30px;
+  --padding-100xl: 119px;
+  --padding-41xl: 60px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-121xl: 140px;
+  --padding-101xl: 120px;
+  --padding-3xs: 10px;
+  --padding-2xs: 11px;
+
+  /* border radiuses */
+  --br-7xs: 6px;
+  --br-5xs: 8px;
+  --br-9xs: 4px;
+}
